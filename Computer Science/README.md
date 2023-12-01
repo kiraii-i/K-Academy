@@ -14,5 +14,3 @@
 - Introduction to Computational Thinking  
 - Software Engineering Concepts
 - Problem Solving
-
- **هذا الشرح تم أخده من حساب [Eyad Hamza](https://github.com/Eyadhamza) لنشر المعرفه والاستفاده**
