@@ -5,9 +5,8 @@
 بعد كده الرؤية هتتضح ليك في المصادر المطلوب منك تعرفها أكتر
 ## Index
 - Introduction
-  - Roadmap Structure:
   - Study Plan and Methodology
-- Introduction to Computer Science
+  - Introduction to Computer Science
 - Dive into Programming Language
 - Data Structure and Algorithms
 - Database
