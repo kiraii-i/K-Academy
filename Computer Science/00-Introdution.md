@@ -29,4 +29,3 @@
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 - [كورس CS50 بالعربيby Abdelrahman Gamal](https://youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w&si=x-BVvmm6UqDiy_SX)
-- 
