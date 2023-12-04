@@ -24,8 +24,9 @@
 
 > There are two great courses, One provided by MIT, the second provided by Harvard
 > Using Subtitles will help you if you have a hard time understanding the language
+``English Content``
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
+``Arabic Content``
 - [كورس CS50 بالعربيby Abdelrahman Gamal](https://youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w&si=x-BVvmm6UqDiy_SX)
