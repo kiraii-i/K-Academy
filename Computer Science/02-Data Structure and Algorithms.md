@@ -1,7 +1,7 @@
 ### Data Structure and Algorithms
 
 ``English Content``
-- [Grokking Algorithms - Entry Level](https://bit.ly/3xl71jO)
+- [Grokking Algorithms - Entry Level](https://bit.ly/3xl71jO) **{BOOK}**
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 ``Arabic Content``
