@@ -8,11 +8,7 @@
 
 - [Python Programming Course by Codezilla](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&si=R30j_glEtJ6wgC9Y)
 
-Or
-
-- [Elzero Web School C++ Course](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
-With
-- [Elzero Problems Sets](https://youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7gru) 
+**ممكن تتعلم لغة C و Python من كورس CS50 ولو كملته والكورس ده هيفيدك في انك تدخل في مجال CS وانا انصح بيه**
   
 Apply what you learned:
 > اللينك الأول فيه موقع ممكن تطبق عليه الي بتتعلمه في لغة البرمجة، اعتبرها انها تاسكات مع الكورس
