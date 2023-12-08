@@ -6,6 +6,9 @@
 -  [C Programming Course By freeCodeCamp.org](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)
 
 #### Python
+``English Content``
+- [Python Programming Course by Bro Code](https://youtu.be/XKHEtdqhLK8?si=eupzzz9KhN2TcVom)
+
 ``Arabic Content``
 - [Python Programming Course by Codezilla](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&si=R30j_glEtJ6wgC9Y)
 
